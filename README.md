@@ -145,6 +145,7 @@ The system successfully detects prolonged eye closure and provides real-time ale
 
 ## Author
 
-Hafizur Rahman
+Hafizur Rahman 
+Under the Guidance of : Mr. Swmdwn Basumatary
 
-B.Tech Project – Driver Drowsiness Detection Using Computer Vision
+B.Tech mini Project – Driver Drowsiness Detection Using Computer Vision
